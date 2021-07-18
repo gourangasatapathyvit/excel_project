@@ -2,4 +2,4 @@
 projects on excel
 
 
-![alt text](https://github.com/gourangasatapathyvit/excel_project/blob/main/SharedScreenshot.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/gourangasatapathyvit/excel_project/main/ss.jpg)
